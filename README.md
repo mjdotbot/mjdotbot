@@ -13,7 +13,15 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/mohammed-jasim-b0257440a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-jasim-b0257440a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/jasim28/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
  **<h3 align="left">I am a Computer Science student passionate about Full Stack Development,
 Artificial Intelligence, Machine Learning, and Cloud Technologies.
@@ -67,15 +75,22 @@ Building scalable applications while continuously exploring new technologies.</h
   <img src="https://skillicons.dev/icons?i=kafka" height="44" />
 </p>
 
-### 🛠️ Tools
+<h3 align="left">🛠️ Development Tools</h3>
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="44" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="44" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="44" />
-  <img src="https://skillicons.dev/icons?i=postman" height="44" />
-  <img src="https://skillicons.dev/icons?i=figma" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="44" />
-  <img src="https://skillicons.dev/icons?i=blender" height="44" />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="44" alt="PyCharm"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="44" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="44" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git"/>
+</p>
+
+<h3 align="left">🎨 Creative Tools</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="44" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=blender" height="44" alt="Blender"/>
 </p>
 
 
