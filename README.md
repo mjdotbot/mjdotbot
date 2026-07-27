@@ -88,7 +88,7 @@ Building scalable applications while continuously exploring new technologies.
 ![](https://streak-stats.demolab.com/?user=mjdotbot&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/mjdotbot/mjdotbot/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
