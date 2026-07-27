@@ -29,61 +29,49 @@ Building scalable applications while continuously exploring new technologies.
 • C++**
 - ⚡ Fun fact: **I used to write Python programs on my phone before I owned a proper development setup. 😅**
 
-
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="44" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="44" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="44" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript" />
 </p>
 
 ### 🌐 Frontend Development
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" />
-  <img src="https://skillicons.dev/icons?i=react" height="44" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="44" />
-  <img src="https://skillicons.dev/icons?i=django" height="44" />
+  <img src="https://skillicons.dev/icons?i=nodejs,django" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="44" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="44" />
-  <img src="https://skillicons.dev/icons?i=cassandra" height="44" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,cassandra" />
 </p>
 
 ### ☁️ Cloud & Big Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="44" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="44" />
+  <img src="https://skillicons.dev/icons?i=aws,kafka" />
 </p>
 
-<h3 align="left">🛠️ Development Tools</h3>
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,figma" />
+</p>
+
+### 🎨 Creative Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" height="44" alt="PyCharm"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="44" alt="Postman"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="44" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=blender" />
 </p>
-
-<h3 align="left">🎨 Creative Tools</h3>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="44" alt="Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=blender" height="44" alt="Blender"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="48" alt="Photoshop" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-jasim-b0257440a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -94,3 +82,20 @@ Building scalable applications while continuously exploring new technologies.
   </a>
 </p>
 
+
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mjdotbot&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/mjdotbot/mjdotbot/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjdotbot/mjdotbot/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjdotbot/mjdotbot/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjdotbot/mjdotbot/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
