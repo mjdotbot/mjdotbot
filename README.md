@@ -72,16 +72,16 @@ Building scalable applications while continuously exploring new technologies.
 </p>
 
 # Connect with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-jasim-b0257440a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" hspace="8"/>
+  </a>
 
   <a href="https://leetcode.com/u/jasim28/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" alt="LeetCode" hspace="8"/>
   </a>
 </p>
-
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
