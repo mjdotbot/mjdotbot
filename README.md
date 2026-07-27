@@ -12,20 +12,11 @@
   </ul>
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-jasim-b0257440a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/jasim28/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
- **<h3 align="left">I am a Computer Science student passionate about Full Stack Development,
+I am a Computer Science student passionate about Full Stack Development,
 Artificial Intelligence, Machine Learning, and Cloud Technologies.
-Building scalable applications while continuously exploring new technologies.</h3>**
+Building scalable applications while continuously exploring new technologies.
+</p>
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -38,7 +29,6 @@ Building scalable applications while continuously exploring new technologies.</h
 • C++**
 - ⚡ Fun fact: **I used to write Python programs on my phone before I owned a proper development setup. 😅**
 
- **<h3 align="left">Skills</h3>**
 
 ## 🛠️ Skills
 
@@ -93,4 +83,14 @@ Building scalable applications while continuously exploring new technologies.</h
   <img src="https://skillicons.dev/icons?i=blender" height="44" alt="Blender"/>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-jasim-b0257440a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/jasim28/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
