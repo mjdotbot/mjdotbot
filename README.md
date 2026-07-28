@@ -20,7 +20,7 @@ Building scalable applications while continuously exploring new technologies.
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 A new secret project**
+- 💼 I'm currently working on: **Something that might save the world!😉**
 - 🌱 I'm currently learning: **📚 Big DATA Technologies**
 - 💬 Ask me about: **• Full Stack Development
 • Prompt Engineering
@@ -84,11 +84,18 @@ Building scalable applications while continuously exploring new technologies.
 </p>
 
 # GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mjdotbot&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mjdotbot&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mjdotbot&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ###
 
