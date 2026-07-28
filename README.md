@@ -77,6 +77,10 @@ Building scalable applications while continuously exploring new technologies.
   <a href="https://www.linkedin.com/in/mohammed-jasim-b0257440a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" hspace="8"/>
   </a>
+  
+  <a href="mailto:jasimismail.tech@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="48" />
+</a>
 
   <a href="https://leetcode.com/u/jasim28/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" alt="LeetCode" hspace="8"/>
@@ -106,3 +110,4 @@ Building scalable applications while continuously exploring new technologies.
 </picture>
 
 ###
+#
